@@ -1,24 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20I'm%20Jes&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20I'm%20Jesika&fontSize=50)
+<h1 align="center">Fresh Graduate Passionate about Data Science & AI Engineering</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&lines=Mahasiswa+Skripsi;Data+Science+Enthusiast)](https://git.io/typing-svg)
+<p align="center">
+  Mahasiswa yang sedang menyelesaikan skripsi tentang clustering menggunakan PSO-KMeans.
+  Tertarik pada data, machine learning, dan membangun aplikasi web.
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+<p align="center">
+  <a href="mailto:jesika.yudiani.p7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-jesika.yudiani.p7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/jesika-yudiani-putri-58034533b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jesika%20Yudiani%20Putri-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/JeJes-7" target="_blank">
+    <img src="https://img.shields.io/github/followers/JeJes-7?label=Followers&logo=github&style=flat-square" alt="GitHub Profile" />
+  </a>
+</p>
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🚀 Core Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,php,js,html,css,mysql,r,react,nodejs,laravel,grafana,prometheus&theme=dark" />
+</p>
 
-![Streak](https://streak-stats.demolab.com/?user=USERNAME&theme=radical)
+### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,postman,jupyter&theme=dark" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Jes</h1>
-<p align="center">Fresh Graduate | Data Science | AI Engineer</p>
-
-### 🛠️ Tech Stack
-(badge di sini)
-
-### 📊 GitHub Stats
-(stats di sini)
-
-### 📫 Contact
-- LinkedIn: ...
-- Email: ...
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeJes-7/JeJes-7/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeJes-7/JeJes-7/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/JeJes-7/JeJes-7/output/github-snake.svg" />
+</picture>
