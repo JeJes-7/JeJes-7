@@ -21,12 +21,12 @@
 
 ### 🚀 Core Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,php,js,html,css,mysql,r,react,nodejs,laravel,grafana,prometheus&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,php,js,html,css,mysql,react,nodejs,laravel,grafana,prometheus&theme=dark" />
 </p>
 
 ### 🛠️ Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma,postman,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,postman,jupyter,r,spss&theme=dark" />
 </p>
 
 <picture>
