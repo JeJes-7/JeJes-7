@@ -26,7 +26,7 @@
 
 ### 🛠️ Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma,postman,jupyter,r,spss&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma,postman,jupyter,r&theme=dark" />
 </p>
 
 <picture>
