@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hi%20I'm%20Jesika&fontSize=50)
 <h1 align="center">Fresh Graduate Passionate about Data Science & AI Engineering</h1>
 
-<p align="center">
-  Mahasiswa yang sedang menyelesaikan skripsi tentang clustering menggunakan PSO-KMeans.
-  Tertarik pada data, machine learning, dan membangun aplikasi web.
+<p align="justify">
+  Saya adalah lulusan S1 Matematika Universitas Negeri Malang yang berfokus pada analisis data dan statistik terapan. Saya juga memiliki keterampilan pemrograman komputer untuk pembersihan, pengolahan, dan visualisasi data hasil dari pengalaman proyek akademik. Berkomitmen tinggi untuk mengembangkan kemampuan analitis dan teknis, serta siap untuk menerapkan pengetahuan dalam praktik melalui magang atau pengalaman profesional di bidang data.
 </p>
 
 <p align="center">
@@ -17,7 +16,6 @@
     <img src="https://img.shields.io/github/followers/JeJes-7?label=Followers&logo=github&style=flat-square" alt="GitHub Profile" />
   </a>
 </p>
----
 
 ### 🚀 Core Tech Stack
 <p align="left">
