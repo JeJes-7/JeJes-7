@@ -19,7 +19,7 @@
 
 ### 🚀 Core Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,php,js,html,css,mysql,react,nodejs,laravel,grafana,prometheus&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,php,js,html,css,mysql,nodejs,laravel,grafana,prometheus&theme=dark" />
 </p>
 
 ### 🛠️ Tools
